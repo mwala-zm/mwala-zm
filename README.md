@@ -12,7 +12,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mwala-zm" /></p>
+<p><img align="right" src="https://github.com/mwala-zm/mwala-zm/blob/main/cod.gif" alt="mwala-zm" /></p>
 
 
 - 🌱 Studying Computer Science.
@@ -20,6 +20,8 @@
 - 📫 How to reach me **mwalamulenga.zt@gmail.com**
 
 - ⚡ Fun fact: Life is Reason to live.
+
+- Football, Tennis, video Games and of late reading.
 
 - 
 
@@ -47,11 +49,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -113,3 +111,6 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+[![Hanzo's github activity graph](https://activity-graph.herokuapp.com/graph?username=mwala-zm&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/mwala-zm)
