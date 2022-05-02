@@ -1,7 +1,7 @@
 ## Top of the Morning ☀️, Mwala Here
 
 
-![Metrics](https://metrics.lecoq.io/mwala-zm?template=classic&repositories=1&habits=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Africa%2FJohannesburg)  
+![Metrics](https://metrics.lecoq.io/mwala-zm)  
 
 ![Profile views](https://gpvc.arturio.dev/mwala-zm)
 
