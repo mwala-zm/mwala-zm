@@ -1,14 +1,6 @@
 
 <h1 align="center">Top of the Morning ☀️, Mwala Here</h1>
-<h3 align="center"> Just Chillin 🌴🌍</h3> <br>
-
-[![wakatime](https://wakatime.com/badge/user/f1e9472e-19ff-4947-9407-b98050852244.svg)](https://wakatime.com/@f1e9472e-19ff-4947-9407-b98050852244)
-
-<br>
-<p align="right"> <h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=mwala-zm=Profile%20views&color=0e75b6&style=flat"
-    alt="mwala-zm" /> 
-  </p>
-
+<h3 align="center"> Just Chillin 🌴🌍</h3> 
 <br>
 
 - 🌱 Studying Computer Science.
