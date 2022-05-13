@@ -13,5 +13,4 @@
 
 <h1>Life is Reason to live.</h1>
 
-![Hanzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwala-zm&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwala-zm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
