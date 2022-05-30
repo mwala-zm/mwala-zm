@@ -1,15 +1,18 @@
 # Top of the Morning ☀️, Mwala Here,
 
 ## Hanzo minutes
+
 ![Metrics](https://metrics.lecoq.io/mwala-zm)  
 
 ![Profile views](https://gpvc.arturio.dev/mwala-zm)
 
-* 🌱 Studying Computer Science.
+* 📚 Studying Computer Science.
 
 * 📫 How to reach me **mwalamulenga.zt@gmail.com**
 
-* Football, Aviation, Video Games and of late reading(**Novels**).
+* ⚽ Football(Soccer), Aviation, Video Games and of late reading(**Novels**).
+
+* 💻 I use A Windows Machine (Acer Aspire E1-531)
 
 If you like my work, you can support me by making a donation at [Buy me a coffee](https://www.buymeacoffee.com/mwala)
 
