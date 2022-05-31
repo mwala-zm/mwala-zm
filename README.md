@@ -1,6 +1,4 @@
-# Top of the Morning ☀️, Mwala Here,
-
-## Hanzo minutes
+# Top of the Morning ☀️ Mwala Here,
 
 ![Metrics](https://metrics.lecoq.io/mwala-zm)  
 
