@@ -10,7 +10,7 @@
 
 * ⚽ Football(Soccer), Aviation, Video Games and of late reading(**Novels**).
 
-* 💻 I use A Windows Machine (Acer Aspire E1-531)
+* 💻 I use A Windows Machine (Acer Aspire E1-531) and use VIM.
 
 If you like my work, you can support me by making a donation at [Buy me a coffee](https://www.buymeacoffee.com/mwala)
 
