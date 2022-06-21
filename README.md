@@ -12,7 +12,13 @@
 
 * 💻 I use A Windows Machine (Acer Aspire E1-531) and use VIM.
 
-If you like my work, you can support me by making a donation at [Buy me a coffee](https://www.buymeacoffee.com/mwala)
+If you like my work, you can support me by making a donation at <br>
+
+<a href="https://www.buymeacoffee.com/mwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+or became a Patreon<br> <a href="https://www.patreon.com/theraidzeropodcast">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 
 <h1>Life is Reason to live.</h1>
