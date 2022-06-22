@@ -22,7 +22,4 @@ If you like my work, you can support me by making a donation at <br>
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160" height="41" alt="Patreon">
 </a>
 
-
 <h1>Life is Reason to live.</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwala-zm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
