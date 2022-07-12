@@ -1,4 +1,4 @@
-# Top of the Morning ☀️ Mwala Here,
+# Top of the Morning ☀️ Mwala Here.
 
 ![Metrics](https://metrics.lecoq.io/mwala-zm)  
 
