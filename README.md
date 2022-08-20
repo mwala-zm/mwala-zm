@@ -6,7 +6,7 @@
 
 * 📚 Studying Computer Science.
 
-* 📫 How to reach me **mwalamulenga.zt@gmail.com**
+* 📫 How to reach me **mwalazechariahmulenga@gmail.com**
 
 * ⚽ Football(Soccer), Aviation, Video Games and of late reading(**Novels**).
 
