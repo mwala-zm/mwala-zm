@@ -18,6 +18,6 @@ If you like my work, you can support me by making a donation at <br>
 
 <a href="https://www.patreon.com/theraidzeropodcast">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160" height="41" alt="Patreon">
-</a>
+</a><br>
 
-<h1>Life is Reason to live.</h1>
+<b>Life is Reason to live.</b>
