@@ -10,8 +10,6 @@
 
 * ⚽ Football(Soccer), Aviation, Video Games and of late reading(**Novels**).
 
-* 💻 I'm on a Windows Machine (Acer Aspire E1-531) and use VIM.
-
 If you like my work, you can support me by making a donation at <br>
 
 <a href="https://www.buymeacoffee.com/mwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="160"></a>
