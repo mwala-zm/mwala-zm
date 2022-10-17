@@ -4,11 +4,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/mwala-zm)
 
-* 📚 Studying Computer Science.
+## Code Wars Kata
+![image](https://www.codewars.com/users/mwala-zm/badges/small)
 
-* 📫 How to reach me **mwalazechariahmulenga@gmail.com**
-
-* ⚽ Football(Soccer), Aviation, Video Games and of late reading(**Novels**).
 
 If you like my work, you can support me by making a donation at <br>
 
