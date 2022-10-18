@@ -2,7 +2,7 @@
 
 ![Metrics](https://metrics.lecoq.io/mwala-zm)  
 
-![Profile views](https://gpvc.arturio.dev/mwala-zm) ![image](https://www.codewars.com/users/mwala-zm/badges/macro)
+![Profile views](https://gpvc.arturio.dev/mwala-zm) ![image](https://www.codewars.com/users/mwala-zm/badges/micro)
 
 
 If you like my work, you can support me by making a donation at <br>
