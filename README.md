@@ -4,7 +4,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/mwala-zm)
 
-## Code Wars Kata
 ![image](https://www.codewars.com/users/mwala-zm/badges/small)
 
 
