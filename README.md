@@ -15,4 +15,6 @@ If you like my work, you can support me by making a donation at <br>
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160" height="41" alt="Patreon">
 </a><br>
 
-<b>Life is Reason to live.</b>
+<b>Life is Reason to live.
+
+<img src="https://wakatime.com/badge/user/f1e9472e-19ff-4947-9407-b98050852244.svg" alt="wakatime" />
