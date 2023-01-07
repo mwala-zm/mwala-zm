@@ -2,7 +2,7 @@
 
 ![Metrics](https://metrics.lecoq.io/mwala-zm)  
 
-![Profile views](https://gpvc.arturio.dev/mwala-zm) ![image](https://www.codewars.com/users/mwala-zm/badges/micro)
+![Profile views](https://gpvc.arturio.dev/mwala-zm) ![image](https://www.codewars.com/users/mwala-zm/badges/micro) [![wakatime](https://wakatime.com/badge/user/f1e9472e-19ff-4947-9407-b98050852244.svg)](https://wakatime.com/@f1e9472e-19ff-4947-9407-b98050852244)
 
 
 If you like my work, you can support me by making a donation at <br>
@@ -16,5 +16,3 @@ If you like my work, you can support me by making a donation at <br>
 </a><br>
 
 <b>Life is Reason to live.
-
-<img src="https://wakatime.com/badge/user/f1e9472e-19ff-4947-9407-b98050852244.svg" alt="wakatime" />
