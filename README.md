@@ -1,4 +1,4 @@
-Hi their, I'm Mwala Zechariah Mulenga
+Hi there, I'm Mwala Zechariah Mulenga
 - I have been programming since 2017
 - 👨🏾‍💻Computer Science Grad `class of 2023`
 - 💽 I love Web development (More of backend than frontend), bits of game dev and some computer vision work.
