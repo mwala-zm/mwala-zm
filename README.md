@@ -9,4 +9,4 @@ The highlighted ones are my favourites, and I love working with them.
 - `Ruby (Ruby on Rails)`
 - Javascript (React, svelte)
 - Java (Springboot)
-- Currently learning 🦀 Rust and improving on my c++.
+- Currently learning 🦀 Rust and improving on my `C++`.
