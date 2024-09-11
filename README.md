@@ -12,3 +12,5 @@ The highlighted ones are my favourites, and I love working with them.
 - Currently learning 🦀 `Rust` and improving on my `C++`.
 
 [![wakatime](https://wakatime.com/badge/user/f1e9472e-19ff-4947-9407-b98050852244.svg)](https://wakatime.com/@f1e9472e-19ff-4947-9407-b98050852244)
+
+![codewars](https://www.codewars.com/users/mwala-zm/badges/micro)
