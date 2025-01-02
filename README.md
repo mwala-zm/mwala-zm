@@ -1,7 +1,7 @@
 Hi there, I'm <strong>Mwala Zechariah Mulenga</strong>
 - I have been programming since 2017
 - 👨🏾‍💻Computer Science Grad `class of 2023`
-- 💽 I love Web development (More of backend than frontend), bits of game dev and some computer vision.
+- 💽 I love building Web apps (More of backend than frontend), bits of game dev and some computer vision.
 - 🪟 Neovim with amazing colours (🌹Rose-pine).
 ## Languages and Frameworks
 The highlighted ones are my favourites, and I love working with them.
