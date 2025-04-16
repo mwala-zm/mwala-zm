@@ -12,8 +12,9 @@ The highlighted ones are my favourites, and I love working with them.
 - Currently learning 🦀 `Rust` and improving on my `C++`.
 
 ## Things I have been upto
-- https://github.com/pay-rails/pay/discussions/1145#discussioncomment-12742346 
-- https://github.com/rails/tailwindcss-rails/discussions/450#discussioncomment-11935258 
+- https://github.com/pay-rails/pay/discussions/1145#discussioncomment-12742346
+- https://github.com/yshmarov/moneygun/issues/151
+- https://github.com/rails/tailwindcss-rails/discussions/450#discussioncomment-11935258
 - https://github.com/rails/rails/issues/50234#issuecomment-2567371158 
 - https://github.com/rails/rails/issues/53120 
 - https://github.com/rails/rails/discussions/51384 
