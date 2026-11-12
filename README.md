@@ -7,8 +7,8 @@ Hi there, I'm Mwala Zechariah Mulenga
 
 ## Languages and Frameworks
 The highlighted ones are my favourites, and I love working with them.
+- `Java`
 - `Ruby (Ruby on Rails)`
-- `Python (Django & Flask)`
 - Javascript (React, svelte)
 - Currently learning zig and clojure.
 
